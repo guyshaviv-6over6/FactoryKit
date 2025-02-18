@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Factory",
+    name: "FactoryKit",
     platforms: [
         .iOS(.v12),
         .macOS(.v10_14),
